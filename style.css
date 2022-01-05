@@ -9,4 +9,19 @@ h1{
 }
 section{
     display: flex;
+    padding: 10%;
+}
+#col1{
+    width: 60%;
+}
+#dis1{
+    width: 90%;
+}
+#git_link{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(orange,red);
+    padding: 5px;
+    margin-left: 10px;
 }
