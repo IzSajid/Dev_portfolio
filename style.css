@@ -12,21 +12,48 @@ section{
     display: flex;
     padding: 10%;
 }
-#col1{
+.col{
     width: 60%;
 }
-#dis1{
-    width: 90%;
+#col2{
+    width: 80%;
+    margin-left: 20%;
+}
+.dis{
+    width: 80%;
 }
 #git_link{
     text-decoration: none;
+    font-size: 150%;
     color: white;
     font-weight: 700;
     background-image: linear-gradient(orange,red);
     padding: 5px;
     margin-left: 10px;
+    border-radius: 30%;
 }
 #sec1{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+#sec2{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#pic1{
+    border-color: yellow;
+    border-radius: 15%;
+}
+#pic2{
+    border-color: red;
+    border-radius: 15%;
+}
+#aim{
+    background-color: orange;
+    border: 40%;
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 30%;
+    color: white;
 }
