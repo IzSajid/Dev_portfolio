@@ -41,6 +41,13 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
+#sec3{
+    background-image: url(images/my-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    height: 10%;
+    width: 30%;
+}
 #pic1{
     border-color: yellow;
     border-radius: 15%;
@@ -63,6 +70,7 @@ h1{
 }
 .exp{
     box-shadow: 10px 10px 40px gray;
-    margin-left: 60px;
-    padding: 15px;
+    margin: 25px;
+    padding-left: 40px;
+    padding-right: 10px;
     }
